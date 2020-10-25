@@ -1,17 +1,17 @@
 # ML-DLbasics
 Basic machine learning models for easy learning
 
--[x] Linear Regression
--[] Logistic Regression
--[] K-Nearest Neighbours
--[] K-Means Clustering
--[] Naive Bayes
--[] SVMs
--[x] Decision Trees
--[] Random Forest
--[] Dimensionality Reduction Algorithms
--[] Gradient Boosting algorithms- XGBoost, GBM, LightGBM, CatBoost
--[x] Autoencoder
+- [x] Linear Regression
+- [] Logistic Regression
+- [] K-Nearest Neighbours
+- [] K-Means Clustering
+- [] Naive Bayes
+- [] SVMs
+- [x] Decision Trees
+- [] Random Forest
+- [] Dimensionality Reduction Algorithms
+- [] Gradient Boosting algorithms- XGBoost, GBM, LightGBM, CatBoost
+- [x] Autoencoder
 
 ### Issue 
 
