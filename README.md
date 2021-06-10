@@ -12,6 +12,7 @@ Basic machine learning models for easy learning
 - [ ] Dimensionality Reduction Algorithms
 - [ ] Gradient Boosting algorithms- XGBoost, GBM, LightGBM, CatBoost
 - [x] Autoencoder
+- [x] Deep Belief Networks (RBM ??)
 
 ### Issue 
 
